@@ -11,29 +11,23 @@
 
 
 
-.my-btn:hover{
-background-color: rgba(255, 255, 255, 0.705);
-
-
-}
-.my-btn1{
-background-color: rgba(255, 255, 255, 0.664);
-padding: 15px;
-
-
-}
 
 .carousel-control-next{
     position: absolute;
     left: 0;
 }
-p,h5{
 
-display: flex;
-align-items: center;
-justify-content: center;
 
+.my-btn1{
+
+border : 2px solid #fff
+padding: 15px;
 }
 
 
-
+.About{
+margin-top: 40px;
+background-color: aqua;
+width: 60px;
+height: 70px;
+}
