@@ -1,0 +1,29 @@
+
+.my-btn{
+    padding: 15px;
+}
+
+
+
+
+
+
+
+
+
+.my-btn:hover{
+background-color: rgba(255, 255, 255, 0.705);
+
+
+}
+.my-btn1{
+background-color: rgba(255, 255, 255, 0.664);
+padding: 15px;
+
+
+}
+
+.carousel-control-next{
+    position: absolute;
+    left: 0;
+}
