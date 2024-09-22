@@ -27,7 +27,62 @@ padding: 15px;
 
 .About{
 margin-top: 40px;
-background-color: aqua;
-width: 60px;
-height: 70px;
+background-color:#F8F9FA;
 }
+.text-cteate{
+background-color: #F8F9FA;
+
+
+}
+.content-create .item{
+background-color: blue;
+width: 25.55555%;
+display: flex;
+
+}
+.content-create .item img{
+position: relative;
+
+
+    width: 100%;
+}
+.content-create .item .caption{
+
+background-color: aquamarine;
+color: #fff;
+position: absolute;
+}
+.content-create .item .caption h1{
+
+margin: 0;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
