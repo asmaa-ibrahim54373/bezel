@@ -34,25 +34,26 @@ background-color: #F8F9FA;
 
 
 }
-.content-create .item{
+.team-boxs .team-box{
 background-color: blue;
 width: 25.55555%;
 display: flex;
 
 }
-.content-create .item img{
+ .team-boxs .team-box img{
 position: relative;
-
-
     width: 100%;
 }
-.content-create .item .caption{
+.team-boxs .team-box.caption{
 
 background-color: aquamarine;
 color: #fff;
 position: absolute;
+top: 0;
+left:0;
+
 }
-.content-create .item .caption h1{
+.team-boxs .team-box .caption h1{
 
 margin: 0;
 
